@@ -1,0 +1,8 @@
+.blocoLista{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    color: blue;
+    flex-wrap: wrap;
+    display: block;
+}
